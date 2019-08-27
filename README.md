@@ -1,2 +1,3 @@
-## basicMongoConnection
+# basicMongoConnection
+Change uri to connect MongoDB Server
 
